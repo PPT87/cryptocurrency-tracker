@@ -27,7 +27,7 @@ const filteredCoins = coins.filter(coin =>
   return (
     <div className="coin-app">
       <div className="coin-search">
-        <h1 className="coin-text">Search a currency</h1>
+        <h1 className="coin-text">Search Currency:</h1>
         <form>
           <input 
           className='coin-input'
